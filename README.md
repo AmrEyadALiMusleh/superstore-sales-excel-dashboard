@@ -2,6 +2,7 @@
 
 An end-to-end Excel data analysis project: cleaning a real-world messy dataset, answering four business questions with pivot tables, and building an interactive dashboard with slicers.
 
+![Dashboard preview](dashboard-preview.png)
 **[View the dashboard](Superstore_project.xlsx)** · Built entirely in Microsoft Excel — no external tools.
 
 ---
